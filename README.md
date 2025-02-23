@@ -13,7 +13,7 @@ A video analysis system for object tracking and zone intrusion detection with co
 ## Configuration (config-v2.yaml)
 ```yaml
 model_path: 'checkpoints/best.pt'
-video_path: 'video/test2.mp4'
+video_path: 'video/test.mp4'
 output_path: "outputs/output_custom_tracker_best/result.mp4"
 channel_region:
   - [409, 1113]
