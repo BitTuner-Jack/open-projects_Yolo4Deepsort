@@ -1,6 +1,6 @@
 # Video Surveillance Tracker
 
-A real-time video analysis system for object tracking and zone intrusion detection with configurable parameters.
+A video analysis system for object tracking and zone intrusion detection with configurable parameters.
 
 ## Features
 
