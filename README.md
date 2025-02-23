@@ -39,11 +39,11 @@ fps: null
 pip install -r requirements.txt
 ```
 
-2. Configure settings in `model/config-v2.yaml`
+2. Configure settings in `config/config-v2.yaml`
 
 3. Run main script:
 ```bash
-python main.py --config model/config-v2.yaml
+python main.py
 ```
 
 ## License
