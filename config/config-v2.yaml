@@ -1,0 +1,12 @@
+model_path: 'checkpoints/best.pt'
+video_path: 'video/test2.mp4'
+output_path: "outputs/output_custom_tracker_best/result.mp4"
+channel_region: 
+  - [409, 1113]
+  - [870, 1080]
+  - [1745, 1500]
+  - [630, 1520]
+track_history_length: 30
+alarm_threshold_seconds: 5
+save_debug_frames: False
+fps: null  
